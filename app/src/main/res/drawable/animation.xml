@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bmo1" android:duration="65" />
+    <item android:drawable="@drawable/bmo2" android:duration="65" />
+    <item android:drawable="@drawable/bmo3" android:duration="65" />
+    <item android:drawable="@drawable/bmo4" android:duration="65" />
+    <item android:drawable="@drawable/bmo5" android:duration="65" />
+    <item android:drawable="@drawable/bmo6" android:duration="65" />
+    <item android:drawable="@drawable/bmo7" android:duration="65" />
+    <item android:drawable="@drawable/bmo8" android:duration="65" />
+    <item android:drawable="@drawable/bmo9" android:duration="65" />
+    <item android:drawable="@drawable/bmo10" android:duration="65" />
+    <item android:drawable="@drawable/bmo11" android:duration="65" />
+    <item android:drawable="@drawable/bmo12" android:duration="65" />
+    <item android:drawable="@drawable/bmo13" android:duration="65" />
+    <item android:drawable="@drawable/bmo14" android:duration="65" />
+
+</animation-list>
