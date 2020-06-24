@@ -18,8 +18,10 @@ public class MainActivity extends AppCompatActivity {
         imageFrame = (ImageView) findViewById(R.id.imageView);
 
         if(imageFrame == null) throw new AssertionError();
+        //set image to imageFrame
         imageFrame.setBackgroundResource(R.drawable.animation);
 
+        //gets the background drawable used for this view
         animationDrawable = (AnimationDrawable) imageFrame.getBackground();
         animationDrawable.start();
     }
